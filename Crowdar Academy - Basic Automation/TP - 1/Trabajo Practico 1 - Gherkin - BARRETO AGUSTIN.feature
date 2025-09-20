@@ -1,10 +1,3 @@
-#=======================================================================================================================
-# TRABAJO PRACTICO 1 - BARRETO AGUSTIN ALEJANDRO
-# CROWDAR ACADEMY - Basic Automation                                                        Fecha de entrega: 23/04/2024
-#=======================================================================================================================
-
-#Escenarios de Registro
-@SingUp @EN
 Feature: Crear una cuenta en Clockify
 
 
@@ -85,10 +78,6 @@ Feature: Crear una cuenta en Clockify
 			| idioma | btn_SingUp          | btn_SingUp_Google    | mensaje                              |
 			| EN     | CONTINUE WITH EMAIL | Continue with Google | You must accept the terms of service |
 
-
-#Escenarios de Login
-	@Login @EN
-	Feature: Login en Clockify
 
 
 
